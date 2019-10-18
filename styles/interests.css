@@ -15,7 +15,7 @@ h3 {
 
 }
 
-.directions {
+#directions {
     position: absolute;
     top: 0px;
     left: 0;
@@ -42,30 +42,10 @@ li a:hover {
 
 }
 
-.img1 {
-    border: 1mm ridge darkred;
-    position: absolute;
-    top: 200px;
-    left: 100px;
-    height: 400px;
-    width: 700px;
-    bottom: 0;
-}
 
-.img2 {
-    border: 1mm ridge darkred;
-    position: absolute;
-    top: 200px;
-    right: 100px;
-    height: 400px;
-    width: 700px;
-}
-
-.img1:hover {
-    filter: saturate(2);
-}
-
-.img2:hover {
-    filter: hue-rotate(90deg);
+#Hobbies{
+    margin:auto;
+width:300px;
+    background-color:darkred;
 
 }
