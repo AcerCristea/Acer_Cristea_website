@@ -19,33 +19,15 @@ margin:auto 11%;
 
 }
 
-ul{
-  position: absolute;
-  top:0px;
-  left:0;
-  list-style-type:none;
-  margin:0;
-padding:8px;
-  height:1000px;
-
+#FavouriteM{
+    margin:auto;
+width:200px;
+    background-color:darkred;
 
 }
-
-
-li a {
- display: block;
-  color: white;
-  padding: 8px 16px;
-  text-decoration: none;
-
-  transition: background-color .5s;
+#text{
+  text-align:center;
 }
-
-li a:hover {
-  background-color: darkred;
-
-}
-
 ol{
 
 }

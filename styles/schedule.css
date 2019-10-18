@@ -32,8 +32,6 @@ ul{
   list-style-type:none;
   margin:0;
 padding:0;
-  heght:1000px;
-
 
 }
 
@@ -55,7 +53,7 @@ li a:hover {
 
 .img1{
    border: 1mm ridge darkred;
-  position:relative;
+  position:absolute;
   top:-292px;
  left:1600px;
 }
