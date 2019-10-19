@@ -7,20 +7,13 @@ h1 {
 
 
 .table {
-    position: static;
-    margin-left: 600px;
-
+    position: relative;
+    margin-left: 230px;
     border-color: darkred;
-    margin: 0px;
-
-
 
 }
 
 
-.img1 {
-    border: 1mm ridge darkred;
-    position: relative;
-    right: 500px;
-
+td {
+    padding: 10px;
 }
