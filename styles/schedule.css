@@ -1,62 +1,26 @@
-body{
-  margin-left:100px;
-  margin-right:100px;
-    font-family: Courier,monospace;
-  color:white;
-  background-image:  url("http://thuexefcs.com/wp-content/uploads/cool-simple-backgrounds-wallpaper-simple-design-2017-cool-hd-wallpapers-backgrounds-simple.png")
-}
-
-h1{
-  text-decoration: underline darkred;
-  text-align: center;
+h1 {
+    text-decoration: underline darkred;
+    text-align: center;
+    margin-left: 200px;
 
 }
 
 
-.table{
-  position:relative;
-  left:600px;
-  border-size:2px;
- border-color: darkred;
-  margin:0px;
+.table {
+    position: static;
+    margin-left: 600px;
+
+    border-color: darkred;
+    margin: 0px;
 
 
 
 }
 
 
-ul{
-  position: absolute;
-  top:0px;
-  left:0;
-  list-style-type:none;
-  margin:0;
-padding:0;
+.img1 {
+    border: 1mm ridge darkred;
+    position: relative;
+    right: 500px;
 
 }
-
-
-li a {
- display: block;
-  color: white;
-  padding: 8px;
-  text-decoration: none;
-
-  transition: background-color .5s;
-}
-
-li a:hover {
-  background-color: darkred;
-
-}
-
-
-.img1{
-   border: 1mm ridge darkred;
-  position:absolute;
-  top:-292px;
- left:1600px;
-}
-
-
-

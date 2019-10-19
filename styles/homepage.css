@@ -1,48 +1,46 @@
-
-
-h1{
-text-decoration: underline darkred;
-  text-align: center;
-
-}
-h2{
-  text-align:center;
-  text-decoration: underline darkred;
-}
-
-h3{
-
-margin:auto 11%;
-  font-size:20px;
-   text-decoration: underline darkred;
+h1 {
+    text-decoration: underline darkred;
+    text-align: center;
 
 }
 
-
-.img1{
- border: 1mm ridge darkred;
-  position:absolute;
-  top:200px;
-  left:100px;
-  height:400px;
-  width:700px
+h2 {
+    text-align: center;
+    text-decoration: underline darkred;
 }
 
-.img2{
- border: 1mm ridge darkred;
-  position : absolute;
-  top: 200px;
-  right: 100px;
-   height:400px;
-  width:700px;
-}
+h3 {
 
-.img1:hover{
-  filter: saturate(2);
-}
-
-.img2:hover{
-  filter: hue-rotate(90deg);
+    margin: auto 11%;
+    font-size: 20px;
+    text-decoration: underline darkred;
 
 }
 
+
+.img1 {
+    border: 1mm ridge darkred;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    height: 400px;
+    width: 700px
+}
+
+.img2 {
+    border: 1mm ridge darkred;
+    position: absolute;
+    top: 200px;
+    right: 100px;
+    height: 400px;
+    width: 700px;
+}
+
+.img1:hover {
+    filter: saturate(2);
+}
+
+.img2:hover {
+    filter: hue-rotate(90deg);
+
+}

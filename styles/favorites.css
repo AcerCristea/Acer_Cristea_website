@@ -1,33 +1,44 @@
-
-h1{
-text-decoration: underline darkred;
-  text-align: center;
-
-}
-h2{
-  text-align:center;
-  text-decoration: underline darkred;
-    position:relative;
+h1 {
+    text-decoration: underline darkred;
 
 }
 
-h3{
+h2 {
 
-margin:auto 11%;
-  font-size:20px;
-   text-decoration: underline darkred;
+    text-decoration: underline darkred;
 
 }
 
-#FavouriteM{
-    margin:auto;
-width:200px;
-    background-color:darkred;
+h3 {
+
+
+    font-size: 20px;
+    text-decoration: underline darkred;
 
 }
-#text{
-  text-align:center;
-}
-ol{
 
+.Movies {
+    margin: auto;
+    width: 200px;
+    background-color: darkred;
+
+}
+
+.Artists {
+    margin: auto;
+    width: 200px;
+    background-color: darkred;
+
+}
+
+.Books {
+    margin: auto;
+    width: 200px;
+    background-color: darkred;
+
+}
+
+
+#text {
+    text-align: center;
 }

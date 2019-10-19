@@ -10,23 +10,24 @@ h2 {
 }
 
 h3 {
-       poistion:relative:10px;
-    text-align:center;
+    position: relative:10px;
+    text-align: center;
 
 
 }
 
-p{
-    text-align:center;
+p {
+    text-align: center;
 }
 
-#Hobbies{
-    margin:auto;
-width:200px;
-    background-color:darkred;
+#Hobbies {
+    margin: auto;
+    width: 200px;
+    background-color: darkred;
 
 }
-.text{
-    position:relative;
-    top:50px;
+
+.text {
+    position: relative;
+    top: 50px;
 }

@@ -1,13 +1,13 @@
-body{
-margin-right:100px;
-    margin-left:100px;
-    font-family: Courier,monospace;
-  color:white;
-  background-image:  url("http://thuexefcs.com/wp-content/uploads/cool-simple-backgrounds-wallpaper-simple-design-2017-cool-hd-wallpapers-backgrounds-simple.png")
+body {
+    margin-right: 100px;
+    margin-left: 100px;
+    font-family: Courier, monospace;
+    color: white;
+    background-image: url("http://thuexefcs.com/wp-content/uploads/cool-simple-backgrounds-wallpaper-simple-design-2017-cool-hd-wallpapers-backgrounds-simple.png")
 }
 
 
-#directions ul{
+#directions ul {
     position: absolute;
     top: 0px;
     left: 0px;
