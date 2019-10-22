@@ -18,22 +18,19 @@ h3 {
 }
 
 
-.img1 {
-    border: 1mm ridge darkred;
-    position: relative;
-    top: 100px;
-    left: 30px;
-    height: 300px;
-    width: 500px
+        .img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
+
 .img2 {
-    border: 1mm ridge darkred;
-    position: relative;
-    top: -212px;
-    right: -548px;
-    height: 300px;
-    width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .img1:hover {
